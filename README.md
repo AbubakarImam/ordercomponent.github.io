@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# ordercomponent.github.io
+>>>>>>> 4ad1719dbbf1ad38b680814b6942f2be1be13312
 # Frontend Mentor - Order summary card solution
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
